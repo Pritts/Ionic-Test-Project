@@ -1,0 +1,1 @@
+require('ionic/js/ionic.bundle');
